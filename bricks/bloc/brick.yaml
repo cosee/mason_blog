@@ -1,0 +1,13 @@
+name: bloc
+description: Generates a new Bloc in Dart. Built for the bloc state management library.
+version: 0.1.0
+
+environment:
+  mason: '>=0.1.0-dev.49 <0.1.0'
+
+vars:
+  name:
+    type: string
+    description: The name of the BLoC class.
+    default: Test
+    prompt: What is the BLoC name?
