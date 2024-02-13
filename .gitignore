@@ -1,0 +1,14 @@
+# Miscellaneous
+.DS_Store
+
+# Files and directories created by pub
+.dart_tool/
+.packages
+
+# Local Mason Files
+.mason/
+mason-lock.json
+build/
+
+# IntelliJ and Android Studio
+.idea/
